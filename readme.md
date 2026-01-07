@@ -1,1 +1,0 @@
-### this file gives you deep understanding about the simple gradint descent 
