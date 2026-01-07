@@ -1,0 +1,1 @@
+## this file is provided you deep understanding about gradient descent
